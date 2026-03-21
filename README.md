@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1046-last-stone-weight](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
