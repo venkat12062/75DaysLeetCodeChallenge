@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
