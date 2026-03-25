@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [1046-last-stone-weight](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3546-equal-sum-grid-partition-i](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [3546-equal-sum-grid-partition-i](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
+## Matrix
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
