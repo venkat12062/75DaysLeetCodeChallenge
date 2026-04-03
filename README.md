@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3546-equal-sum-grid-partition-i](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Linked List
 |  |
