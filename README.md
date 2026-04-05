@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0657-robot-return-to-origin](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 ## Greedy
 |  |
