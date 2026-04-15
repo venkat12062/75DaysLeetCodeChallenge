@@ -5,12 +5,12 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             int val = nums[i];
 
-            if (i % 2 == 0) { // even index → need prime
+            if (i % 2 == 0) { 
                 while (!isPrime(val)) {
                     val++;
                     ops++;
                 }
-            } else { // odd index → need non-prime
+            } else { 
                 while (isPrime(val)) {
                     val++;
                     ops++;
