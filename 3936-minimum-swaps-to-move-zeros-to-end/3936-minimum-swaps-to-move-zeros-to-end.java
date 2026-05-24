@@ -6,15 +6,13 @@ class Solution {
 
         while (i < j) {
 
-            while (i < j && nums[i] != 0) {
+            if (nums[i] != 0) {
                 i++;
-            }
-
-            while (i < j && nums[j] == 0) {
+            } 
+            else if (nums[j] == 0) {
                 j--;
-            }
-
-            if (i < j) {
+            } 
+            else {
                 int temp = nums[i];
                 nums[i] = nums[j];
                 nums[j] = temp;
