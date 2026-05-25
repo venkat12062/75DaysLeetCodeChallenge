@@ -8,8 +8,9 @@ class Solution {
         Stack<Integer> st = new Stack<>();
         
         for(int i = 2*n - 1; i >= 0; i--) {
+            int num=nums[i%n];
             
-            while(!st.isEmpty() && st.peek() <= nums[i % n]) {
+            while(!st.isEmpty() && st.peek() <= num) {
                 st.pop();
             }
 
@@ -21,7 +22,7 @@ class Solution {
                 }}
             
 
-            st.push(nums[i % n]);
+            st.push(num);
         }
         
         return ng;
