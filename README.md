@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3136-valid-word) |
 ## Divide and Conquer
 |  |
