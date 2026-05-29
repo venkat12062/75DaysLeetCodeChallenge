@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
