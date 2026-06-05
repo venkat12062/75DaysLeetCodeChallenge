@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2126-destroying-asteroids](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
