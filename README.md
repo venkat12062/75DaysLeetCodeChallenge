@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2315-count-asterisks](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2315-count-asterisks) |
+| [2390-removing-stars-from-a-string](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3136-valid-word) |
 ## Divide and Conquer
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2390-removing-stars-from-a-string](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
+| [2390-removing-stars-from-a-string](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
