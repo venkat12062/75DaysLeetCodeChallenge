@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
