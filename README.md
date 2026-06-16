@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3136-valid-word) |
+| [3612-process-string-with-special-operations-i](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
