@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2315-count-asterisks](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/venkat12062/75DaysLeetCodeChallenge/tree/master/2696-minimum-string-length-after-removing-substrings) |
