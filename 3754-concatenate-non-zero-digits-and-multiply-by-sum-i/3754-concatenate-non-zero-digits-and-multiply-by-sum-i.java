@@ -1,7 +1,7 @@
 class Solution {
     public long sumAndMultiply(int n) {
 
-        String s = String.valueOf(n);
+        String s = ""+n;
         StringBuilder ans = new StringBuilder();
         int sum = 0;
 
